@@ -70,13 +70,25 @@ warsaw-project-2/
     │   └── SmoteTomek_Neptune_ai
     │
     ├── Meeting_7/
-    │   ├── 
-    │   └── 
+    │   └─── Magdalena_Cebula_categorical_encoding_ai
+    ├── Meeting_8/
+    │   ├── Magdalena_Cebula_Creating_datasets.ipynb
+    │   └── Magdalena_Cebula_compare_categorical_vs_continuous_date
+    │
+    ├── Meeting_9/
+    │   └─
+    ├── Meeting_10/
+    │   └── Logistic_Regression_&_RandomSearch_&_GridSearch
+    │   
+    ├── Meeting_11/
+    │   ├── Decission_Tree_Magdalena_Cebula.ipynb
+    │   ├── Features_selection_Logistic_Regression_&_RandomSearch_&_GridSearch_Dominik_Stepien
+    │   ├── NoShowCount_Magdalena_Cebula
+    │   └── Random_Forest_Magdalena_Cebula
+    │    
+    ├── Meeting_12/
 
 
-
-   
-```
 
 ---
 #### Warsaw Team Project #1: [Project SMOG](https://github.com/dataworkshop/dw-warsaw-project)
